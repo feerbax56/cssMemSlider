@@ -121,8 +121,8 @@ body{
 
 .slider__label {
    display: inline-block;
-   width: 16px;
-   height: 16px;
+   width: 22px;
+   height: 22px;
    font-size: 0;
    cursor: pointer;
 }   
